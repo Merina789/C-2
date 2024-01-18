@@ -1,0 +1,9 @@
+1.git clone 项目地址
+修改之后
+
+2.git add .
+3.git commit -m "提交说明"
+
+如果要创建新的分支，在步骤2之前执行：git branch "分支名"
+
+4.git push origin "分支名"
